@@ -22,7 +22,7 @@
 		<io.springfox.version>2.8.0</io.springfox.version>
 		<org.openapitools.version>0.2.1</org.openapitools.version>
 		<javax.xml.bind.version>2.3.1</javax.xml.bind.version>
-		<org.postgresql.version>42.2.15</org.postgresql.version>
+		<org.postgresql.version>42.3.8</org.postgresql.version>
 		<org.projectlombok.version>1.18.24</org.projectlombok.version>
 		<org.projectlombok.mapstruct.version>0.2.0
 		</org.projectlombok.mapstruct.version>
